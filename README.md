@@ -1,2 +1,2 @@
-https://cl.hn32.xyz
+cl.hn32.xyz
 
